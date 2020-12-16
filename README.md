@@ -17,5 +17,5 @@ some url may help:
 	-https://www.jianshu.com/p/b2f9efea49c3
 	-https://www.jianshu.com/p/4d392b16d831
 	
-notice that in llvm 11. the method getorinsertfunction is no longer a constant class but a fuctioncallee one. Remaining to be solve
+notice that in llvm 11. the method getorinsertfunction is no longer a constant class but a fuctioncallee one. Use getFunction after it has been inserted
 
